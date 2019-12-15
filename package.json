@@ -1,0 +1,14 @@
+{
+  "name": "imgur-to-sql",
+  "version": "1.0.0",
+  "description": "Creates SQL insertion commands for an imgur album.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aria Noa Heijmens Visser",
+  "license": "ISC",
+  "dependencies": {
+    "imgur": "^0.3.1"
+  }
+}

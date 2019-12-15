@@ -1,0 +1,26 @@
+{
+    "migrations": 
+    [
+        { 
+            "id": "002",
+            "name": "insert-response-entries",
+            "albums": [
+                {"command": "admire", "hash": "ckHPkMD", "description": "${mentioned}! you have an admirer."}
+            ]
+        },
+        {
+            "id": "003",
+            "name": "insert-response-entries",
+            "albums": [
+                {"command": "blush", "hash": "rnMpqpR", "description": "**blushes**"},
+                {"command": "cuddle", "hash": "2Vj64z1", "description": "**${mentioned}, you have been cuddled by ${author}.**"},
+                {"command": "hug", "hash": "EuEWPsI", "description": "**${mentioned}, you have been hugged by ${author}.**"},
+                {"command": "kiss", "hash": "TeN5EU6", "description": "**${mentioned}, you have been kissed by ${author}.**"},
+                {"command": "nom", "hash": "Q96yaVS", "description": "**${mentioned}, you have been nommed by ${author}.**"},
+                {"command": "pat", "hash": "FVjLf8g", "description": "**${mentioned}, you have been pat by ${author}.**"},
+                {"command": "pout", "hash": "wuGKgj5", "description": "**${mentioned}, you have been pouted at by ${author}.**"},
+                {"command": "slap", "hash": "1dTBw8A", "description": "**${mentioned}, you have been slapped by ${author}.**"}                
+            ]
+        }
+    ]
+}    
